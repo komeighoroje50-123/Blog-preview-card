@@ -12,5 +12,6 @@ Built with:
 ##What i learned
 I practiced how to make HTML and CSS responsive layout
 
-##Author
-- Frontend Mentor - [@komeighoroje50-123](https://www.frontendmentor.io/profile/Ighoroje Oghenekome)
+## Author
+
+- Frontend Mentor - [@komeighoroje50-123](https://www.frontendmentor.io/profile/komeighoroje50-123)
