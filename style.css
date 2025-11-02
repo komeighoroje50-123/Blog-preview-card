@@ -42,8 +42,17 @@ h5 {
   font-weight: 500;
 }
 
-h1 {
+h2 {
   
+}
+h2 a {
+  text-decoration: none;
+  color: hsl(218, 44%, 22%);
+}
+
+h2 a:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
 }
 #text {
   color: hsl(0, 0%, 42%);
